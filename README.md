@@ -1,9 +1,10 @@
 # BatteryNotifier
-This Python Program will remind you when to plug in or plug off the charger of your laptop.
-
-After executing, This program will run in the background and will send you reminder window with beep, only on below conditions:
+This Program will remind you when to plug in or plug off the charger of your laptop to maintain healthy battery.
+After executing program, this will run in the background and will keep checking given below conditions after every 20 minutes:
 * Battery is less then 45% and charger is not plugged in.
 * Battery is more than 80% and charger is plugged in.
+
+if any of the above condition is true then program will send you reminder window with beep.
   
 ## Getting Started
 
@@ -29,7 +30,7 @@ C:\Users\USERNAME\PROGRAM_DIR>main.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the **LICENSE.md** file for details
 
 ## Links
 
