@@ -5,7 +5,7 @@ After executing program, this will run in the background and will keep checking 
 * Battery is more than 80% and charger is plugged in.
 
 if any of the above condition is true then program will send you reminder window with beep.
-  
+
 ## Getting Started
 
 #### Prerequisites
@@ -20,6 +20,8 @@ Open cmd and go to the directory of this program and run
 ```
 C:\Users\USERNAME\PROGRAM_DIR>main.py
 ```
+## From where to get full Executable(.exe) of this program?
+It is in the releases of this repository [Download full executable(.exe) here](https://github.com/umerk4466/BatteryNotifier/releases)
 
 ## Specifications
 * **Tested on:** Windows 10
